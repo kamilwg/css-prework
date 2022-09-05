@@ -1,0 +1,29 @@
+body {
+    background-color: darkcyan;
+}
+h1 {
+    background-color: aqua;
+}
+h2 {
+    background-color: aquamarine;
+}
+
+#p1 {
+    background-color: chocolate;
+}
+#p2 {
+    background-color: blueviolet;
+}
+ol {
+    background-color: brown;
+}
+
+.li1 {
+    color: aliceblue;
+}
+.li2 {
+    color: burlywood;
+}
+.li3 {
+    color: blueviolet;
+}

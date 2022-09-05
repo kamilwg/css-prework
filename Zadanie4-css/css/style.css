@@ -1,0 +1,29 @@
+
+
+div {
+    background-color: #f5f5dd;
+}
+.square1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 1);
+    margin: 10px;
+}
+.square2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.75);
+    margin: 10px;   
+}
+.square3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.50);
+    margin: 10px;    
+}
+.square4 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.25);
+    margin: 10px;  
+}
